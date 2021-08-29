@@ -1,0 +1,34 @@
+HTML
+AJAX
+AngularJS
+Angular
+ReactJS
+Vue.js
+vue.js
+Grunt
+Webpack
+Gulp
+Node JS
+CSS
+Javascript
+React
+Ruby on Rails
+SQL
+node.js
+Flask
+Postgres
+PostgreSQL
+Linux
+REST
+T-SQL
+XML
+JSON
+Javascript
+Python
+JIRA
+Bugzilla
+Bash
+Scala
+Jenkins
+AWS
+Picard
